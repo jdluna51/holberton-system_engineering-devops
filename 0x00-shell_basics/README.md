@@ -24,3 +24,6 @@ And hidden files (starting with .)
 
 #6. Welcome holberton
 script that creates a directory named holberton whit the command mkdir
+
+# 7. Betty in Holberton
+Command mv
