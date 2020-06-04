@@ -27,3 +27,6 @@ script that creates a directory named holberton whit the command mkdir
 
 # 7. Betty in Holberton
 Command mv
+
+# 8 Bye bye Betty
+Command rm parameter -r
