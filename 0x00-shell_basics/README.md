@@ -21,3 +21,6 @@ This script display current direcotory contents with
 Long format
 user and group IDs displayed numerically
 And hidden files (starting with .)
+
+#6. Welcome holberton
+script that creates a directory named holberton whit the command mkdir
