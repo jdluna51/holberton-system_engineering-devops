@@ -33,3 +33,9 @@ Command rm parameter -r
 
 9. Bye bye Holberton
 Command rm parameter -r
+
+10. Back to the future
+command cd parameter - to change the working directory to the previus one
+
+11. Lists
+ls -lan  . .. This command list the current directory and the parent of the working directory 
