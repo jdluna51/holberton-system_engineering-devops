@@ -9,3 +9,6 @@ This script display the contents list of your current directory with the command
 
 #2. There is no place like home
 This script  changes the working directory to the user’s home directory
+
+#3.The long format
+This script allow display current directory contents in a long format with the command ls and parameter -l
