@@ -14,4 +14,10 @@ This script  changes the working directory to the user’s home directory
 This script allow display current directory contents in a long format with the command ls and parameter -l
 
 #4. Hidden files
-This script display Display current directory contents, including hidden files (starting with .). Use the long format with the command ls and parameters -la
+This script display current directory contents, including hidden files (starting with .). Use the long format with the command ls and parameters -la
+
+# 5. I love numbers
+This script display current direcotory contents with
+Long format
+user and group IDs displayed numerically
+And hidden files (starting with .)
