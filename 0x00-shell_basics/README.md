@@ -30,3 +30,6 @@ Command mv
 
 # 8 Bye bye Betty
 Command rm parameter -r
+
+9. Bye bye Holberton
+Command rm parameter -r
