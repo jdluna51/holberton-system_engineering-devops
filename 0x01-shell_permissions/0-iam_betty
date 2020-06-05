@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 10
+chown /u
