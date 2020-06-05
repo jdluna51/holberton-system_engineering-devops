@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mx -a -p
+ls -mx -a -S -p
